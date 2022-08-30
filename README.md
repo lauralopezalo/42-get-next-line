@@ -1,6 +1,5 @@
 # get-next-line
 Function that returns a line read from a descriptor file.
----
   
 ## Features
 Calling get_next_line repeatedly (for example, using a loop) allows you to read the contents of the file pointed to by the file descriptor, line by line, to the end.
